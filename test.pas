@@ -1,5 +1,5 @@
 program Test;
 begin
-  WriteLn('FPC Test');
+  WriteLn('FP Test');
   ReadLn 
 end.
